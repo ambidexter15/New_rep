@@ -74,6 +74,10 @@ footer>h3{
     padding: 1rem;
 }
 
+footer>h6{
+    padding: 1.5rem;
+}
+
 .new{
     width: 5rem;
 }
